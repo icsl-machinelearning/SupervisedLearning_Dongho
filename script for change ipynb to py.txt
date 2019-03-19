@@ -1,0 +1,3 @@
+$ jupyter nbconvert --to script [YOUR_NOTEBOOK].ipynb
+
+출처: https://ljs93kr.tistory.com/51 [건프의 소소한 개발이야기]
